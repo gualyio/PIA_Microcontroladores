@@ -62,6 +62,7 @@ Representación técnica y simbólica del circuito electrónico.
 <img width="552" height="306" alt="Diagrama Esquematico" src="https://github.com/user-attachments/assets/1ab6e1da-a60a-4d7f-bc35-cce8c62191df" />
 
 Descripción: Este diagrama representa de forma técnica las conexiones eléctricas entre el ESP32, el joystick y los pulsadores mediante simbología electrónica. Permite identificar cómo se distribuyen las señales de entrada y cómo se interconectan los componentes principales del sistema, sirviendo como referencia para comprender el funcionamiento eléctrico del emulador y facilitar su correcta implementación.
+
 ---
 
 ## ¿Qué hace el proyecto?
