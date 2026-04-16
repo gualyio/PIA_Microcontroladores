@@ -25,7 +25,7 @@ La arquitectura del sistema combina entradas analógicas y digitales para recrea
 
 ## Estructura del Proyecto
 
-```text
+``text
 ├── README.md
 ├── codigo
 │   └── codigo_fuente.ino
@@ -152,6 +152,7 @@ La arquitectura interna del proyecto se basa en un flujo de control "Adquisició
 El proyecto utiliza un ESP32 programado en Arduino IDE para emular un mouse Bluetooth HID mediante las librerías **BleMouse.h** y **BleConnectionStatus.h**. Un joystick analógico conectado a los GPIO 34 y 35 controla el movimiento del cursor, mientras que cuatro botones conectados a los GPIO 32, 33, 25 y 26 permiten realizar clic izquierdo, clic derecho, retroceso y avance.
 
 El sistema calibra la posición central del joystick, aplica una zona muerta para evitar movimientos no deseados y envía las acciones al dispositivo conectado mediante Bluetooth, permitiendo que el ESP32 funcione como un mouse inalámbrico.
+
 ---
 
 ## FAQ - Preguntas Frecuentes
