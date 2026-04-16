@@ -135,7 +135,7 @@ La arquitectura interna del proyecto se basa en un flujo de control "Adquisició
 
 # Pasos para ponerlo en marcha
 
-1.  Debemos de clonar este repositorio creado por nosotros: `git clone https://github.com/OmarDeLeon1910/Acts-6-7-8-Lab.Microcontroladores.git`
+1.  Debemos de clonar este repositorio creado por nosotros: `git clone https://github.com/gualyio/PIA_Microcontroladores`
 2.  Hay que conectar los componentes según el **Diagrama Esquemático**.
 3.  Cargar el código de la carpeta `/codigo` a tu ESP32.
 4.  Debemos emparejar el dispositivo vía Bluetooth con el nombre "ESP32 Mouse BT".
